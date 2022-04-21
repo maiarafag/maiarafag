@@ -1,4 +1,4 @@
-### Oie!! Eu sou a Maiara Fagundes!
+### Oiee!! Eu sou a Maiara Fagundes!
 
 <div align="center">
   <a href="https://github.com/mayaraf15">
