@@ -1,6 +1,6 @@
 ### Hi!! I'm Maiara Fagundes!
 
-<div align="center">
+<div>
   <a href="https://github.com/maiarafag">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiarafag&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiarafag&layout=compact&langs_count=7&theme=radical"/>
