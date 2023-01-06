@@ -1,11 +1,6 @@
 ### Hi!! I'm Maiara Fagundes!
 
-<div>
-  <a href="https://github.com/maiarafag">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiarafag&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiarafag&layout=compact&langs_count=7&theme=radical"/>
-    
-</div>
+
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Maiara-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -26,9 +21,9 @@
   <img align="center" alt="Maiara-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Maiara-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Maiara-SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-    
-</div>
   
+</div>
+   
   ##
   
   <div> 
